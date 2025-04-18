@@ -7,10 +7,10 @@ Metzen MG, Akhshi A, et al. (2025) Burst firing optimizes invariant coding of na
 This repository provides code for analyzing how burst firing in neural populations can give rise to an invariant representation of highly heterogeneous natural communication stimuli. The code supports multi-unit recordings from central sensory neural populations and computational modeling to demonstrate that optimal invariance is achieved for levels of burst firing seen experimentally.
 
 ### Dependencies
+This research has made use of the following softwares:
+* Kilosort2 (https://github.com/MouseLand/Kilosort2) 
+* Phy2 (https://github.com/cortex-lab/phy).
 
-Following packages are required to run the code:
-All codes have been tested with:
-* 
 
 ## Correspondence
 To whom correspondence should be addressed. 
@@ -27,9 +27,6 @@ To send requests and bug reports about the code please contact:
 ## Acknowledgments
 This research was funded by the Fonds de recherche du Québec – Nature et technologies grant to P.B., A.K., and M.J.C.; a Canadian Institutes of Health Research grant to M.J.C. and M.G.M.; and Natural Sciences and Engineering Research Council of Canada discovery grants to M.J.C. and A.K. A.A. was supported by the NSERC-CREATE in Complex Dynamics fellowship, the Healthy Brains, Healthy Lives initiative, the Canada First Research Excellence Fund, and Fonds de recherche du Québec – Nature et technologies support.
 
-#### This research has made use of the following softwares:
-* Kilosort2 (https://github.com/MouseLand/Kilosort2) 
-* Phy2 (https://github.com/cortex-lab/phy).
 
 ## License
 
